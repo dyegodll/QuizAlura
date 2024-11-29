@@ -1,0 +1,14 @@
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\bin\Debug\net8.0\QuizAlura.exe
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\bin\Debug\net8.0\QuizAlura.dll
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\bin\Debug\net8.0\QuizAlura.deps.json
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\bin\Debug\net8.0\QuizAlura.runtimeconfig.json
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\bin\Debug\net8.0\QuizAlura.pdb
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\obj\Debug\net8.0\QuizAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\obj\Debug\net8.0\QuizAlura.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\obj\Debug\net8.0\QuizAlura.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\obj\Debug\net8.0\QuizAlura.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\obj\Debug\net8.0\QuizAlura.dll
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\obj\Debug\net8.0\refint\QuizAlura.dll
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\obj\Debug\net8.0\QuizAlura.pdb
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\obj\Debug\net8.0\QuizAlura.genruntimeconfig.cache
+C:\Users\dyego.lima\source\repos\QuizAlura\QuizAlura\obj\Debug\net8.0\ref\QuizAlura.dll
